@@ -13,3 +13,9 @@
 Вам необходимо работать с репозиторием как локально, так и выгружать данные удаленно. Это можно сделать либо через git bash консоль, либо через GUI клиент. Например, [SourceTree](https://www.sourcetreeapp.com/)
 
 [Работа с репозиторием](https://www.youtube.com/watch?v=ij5GyXzmldk)
+
+### Шаг 3. Выполнение домашнего задания в Ipython notebook
+
+Вам необходимо выполнить задание в Notebook-0-1.ipynb и выложить измененный notebook в ваш репозиторий.
+
+[Работа с Ipython Notebook](https://www.youtube.com/watch?v=QsFMHjuAsCE)
