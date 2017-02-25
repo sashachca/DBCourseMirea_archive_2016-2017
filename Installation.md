@@ -53,6 +53,6 @@ git pull
 
 ## Возможные проблемы 
 
-![Anaconda error](https://monosnap.com/file/YsAx6g8YS46kZJ6TMcbQjhaTit7TrC)
+![Anaconda error](https://api.monosnap.com/rpc/file/download?id=YsAx6g8YS46kZJ6TMcbQjhaTit7TrC)
 
 Решение - запустить установщик от имени администратора.
