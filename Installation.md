@@ -2,7 +2,7 @@
 
 ## Шаг 1: Установка Jupyter Notebook
 
-### _Рекоммендованный способ_
+### _Рекомендованный способ_
 
   [Видео по установке](https://www.youtube.com/watch?v=E8hUFNYt8VU)
 
@@ -49,3 +49,10 @@ git pull
 ```
 
 находясь в папке с git репозиторием.
+
+
+## Возможные проблемы 
+
+![Anaconda error](https://monosnap.com/file/YsAx6g8YS46kZJ6TMcbQjhaTit7TrC)
+
+Решение - запустить установщик от имени администратора.
